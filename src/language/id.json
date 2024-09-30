@@ -1,0 +1,195 @@
+{
+    "home_page": {
+        "Jumbotron": {
+            "quote": {
+                "firstline": "Semua bisa",
+                "secondline": "Integrate, ",
+                "thirdline": "Communicate, ",
+                "and": "and",
+                "fourthline": "Transact",
+                "fifthline": "Via Whatsapp Business”"
+            }
+        },
+        "Solutions": {
+            "Create": {
+                "Title": "Kelola bisnis Anda di WABIZ",
+                "Experience": "Modifikasi komunikasi bisnismu untuk meningkatkan penjualan, layanan, dan dukungan secara otomatis menggunakan WhatsApp API yang dioperasikan secara mandiri."
+            },
+            "Provide": {
+                "Title": "Pelayanan dari Kami",
+                "Utility": "KEGUNAAN",
+                "Marketing": "PEMASARAN",
+                "Authentication": "AUTENTIKASI",
+                "HeadingOne": "Pengiriman Pesan Informasi",
+                "BodyOne": "Memberikan pembaharuan informasi terkait transaksi, pengiriman, dan lainnya yang sedang berjalan",
+                "HeadingTwo": "Pengiriman Pesan Percakapan Pemasaran",
+                "BodyTwo": "Memberikan informasi mengenai penawaran, promosi hingga informasi lainnya diikuti aksi dari customer membalas pesan",
+                "HeadingThree": "Pengiriman Pesan Kode OTP",
+                "BodyThree": "Memberikan informasi berupa pin untuk akses masuk akun hingga pemulihan akun."
+            },
+            "Presence": {
+                "Quote": "Mari kita ciptakan bisnis yang terhubung antara penjual dan pengguna!",
+                "Register": "Registrasi",
+                "Expert": "Bicara dengan Ahli"
+            }
+        },
+        "Statistics": {
+            "StatsOne": "70%",
+            "BodyOne": " Pengurangan penerusan pesan",
+            "StatsTwo": "3x",
+            "BodyTwo": "Tingkat Baca yang Lebih Tinggi dibandingkan SMS dan Email",
+            "StatsThree": "#1",
+            "BodyThree": "Saluran untuk Konversi Melalui Berbagai Saluran Komunikasi Pelanggan."
+        },
+        "JoinUs": {
+            "TitleOne": "EKSISTENSI",
+            "HeadingOne": "Bangun Kehadiran Digital Bisnis Anda",
+            "BodyOne": "Desain profil bisnis yang menarik dan interaktif untuk layanan WhatsApp API Anda dengan elemen visual berkualitas dan fitur seperti demo video atau chat langsung. Pastikan profil Anda responsif di semua perangkat.",
+            "TitleTwo": "IDENTIFIKASI",
+            "HeadingTwo": "Perkuat Identitas Merek Anda",
+            "BodyTwo": "Tingkatkan visibilitas dengan iklan digital, kehadiran aktif di media sosial, dan website yang informatif. Gunakan pemasaran percakapan untuk mengirim pesan personal dan penawaran kepada calon klien.",
+            "TitleThree": "KOMUNIKASI",
+            "HeadingThree": "Lebih Mudah Terhubung dengan Audiens Anda",
+            "BodyThree": "Kirimi pelanggan informasi penting, penawaran promosi, dan kode OTP melalui WhatsApp untuk meningkatkan keamanan. Pastikan komunikasi Anda bermanfaat dan membangun kepercayaan.",
+            "TitleFour": "INTERAKSI",
+            "HeadingFour": "Membangun Koneksi dan Interaksi Berkualitas",
+            "BodyFour": "Dorong pelanggan untuk merespons pesan WhatsApp Anda dengan ajakan yang menarik. Gunakan umpan balik untuk personalisasi penawaran dan memperkuat hubungan dengan pelanggan."
+        },
+        "Points": {
+            "TitleOne": "Fitur Menarik",
+            "BodyOne": "Pesan yang lengkap untuk menciptakan pengalaman yang menyenangkan secara konsisten dan membantu mendorong hasil bisnis di sepanjang perjalanan pelanggan",
+            "TitleTwo": "Kualitas Berdasarkan Desain",
+            "BodyTwo": "API ini dilengkapi dengan kontrol umpan balik pengguna yang membantu memastikan keterlibatan tetap tinggi seiring berjalannya waktu",
+            "TitleThree": "Percakapan yang Intuitif",
+            "BodyThree": "Aplikasi pesan media sosial pertama yang dipilih oleh pengguna untuk berinteraksi",
+            "TitleFour": "Otomatiskan dan Skalakan",
+            "BodyFour": "Platform yang fleksibel yang memungkinkan Anda memberikan pengalaman pelanggan yang konsisten dan dipersonalisasi dalam skala besa"
+        },
+        "Engagement": {
+            "Heading": "Platform Keterlibatan Pelanggan",
+            "TitleOne":"Peringatan dan Pengingat",
+            "BodyOne": "Pemberitahuan dan pengingat untuk pelanggan Anda tepat waktu itu penting",
+            "TitleTwo": "Transaksi dan Pemberitahuan",
+            "BodyTwo": "Terus Informasikan Pelanggan dengan Pembaruan Transaksi waktu sebenarnya",
+            "TitleThree": "Promosi Pemasaran",
+            "BodyThree": "Perkuat Jangkauan Anda dan Libatkan Audiens Anda dengan Kampanye Pemasaran Bertarget",
+            "TitleFour": "Autentikasi",
+            "BodyFour": "Berikan Proses Autentikasi yang Aman dan Mudah untuk Pengguna Anda",
+            "TitleFive": "Katalog",
+            "BodyFive": "Sajikan dan Kelola Penawaran Produk Anda dengan Mulus untuk Kemudahan Penjelajahan Pelanggan",
+            "TitleSix": "Klik untuk Whatsapp",
+            "BodySix": "Aktifkan Keterlibatan Pelanggan Langsung dan Instan dengan Satu Klik Sederhana"
+        },
+        "PhoneChange": {
+            "One": "Teks",
+            "Two": "Tombol Balasan Cepat",
+            "Three": "Gambar",
+            "Four": "Dokumen",
+            "Five": "Video",
+            "Six": "Pesan Menu Daftar",
+            "Seven": "Ajakan Bertindak",
+            "Eight": "Katalog"
+        }
+    },
+    "solution_page": {
+        "Ecosystem": {
+            "Title": "Ekosistem yang Kami Ciptakan",
+            "Paragraphone": "Dalam pasar yang bergerak cepat saat ini, bisnis kecil memerlukan alat yang efektif untuk menjangkau pelanggan mereka dengan cepat dan efisien. Platform kami menjembatani kesenjangan antara bisnis dan pelanggan mereka, memastikan komunikasi yang tepat waktu dan relevan.",
+            "Paragraphtwo": "Platform kami memfasilitasi interaksi yang mulus antara pelanggan, menciptakan komunitas di mana mereka dapat berbagi pengalaman, memberikan umpan balik, dan saling mendukung. Ekosistem yang saling terhubung ini tidak hanya meningkatkan kepuasan pelanggan tetapi juga mendorong pertumbuhan bisnis melalui promosi dari mulut ke mulut dan bukti sosial.",
+            "Register": "Registrasi",
+            "Talk": "Bicara dengan Ahli",
+            "Pointone": "Meningkatkan Keterlibatan Pelanggan",
+            "Bodyone": "Selalu berikan informasi dan interaksi kepada pelanggan Anda dengan notifikasi dan pembaruan waktu nyata.",
+            "Pointtwo": "Meningkatkan Penjualan",
+            "Bodytwo": "Tingkatkan penjualan Anda dengan promosi bertarget dan pengumuman tepat waktu.",
+            "Pointthree": "Bangun Komunitas",
+            "Bodythree": "Ciptakan basis pelanggan setia yang berinteraksi, berbagi, dan mendukung bisnis Anda.",
+            "Pointfour": "Dapatkan Wawasan",
+            "Bodyfour": "Kumpulkan umpan balik dan wawasan berharga dari pelanggan Anda untuk meningkatkan penawaran Anda."
+        },
+        "Create": {
+            "Financial": "Layanan Keuangan",
+            "FinancialOne": "Pemberitahuan Transaksional",
+            "FinancialTwo": "Verifikasi Aplikasi",
+            "FinancialThree": "Koleksi dan Pengingat",
+            "Government": "Pemerintah",
+            "GovernmentOne": "Pembaruan Informasi",
+            "GovernmentTwo": "Peringatan Pengingat",
+            "GovernmentThree": "Pertanyaan dan FAQ",
+            "Retail": "Ritel, FMCG, Makanan & Minuman",
+            "RetailOne": "Pesanan Pembelian",
+            "RetailTwo": "Katalog Produk",
+            "RetailThree": "Program Promosi",
+            "Healthcare": "Kesehatan",
+            "HealthcareOne": "Janji Pemesanan",
+            "HealthcareTwo": "Pengingat Pemesanan",
+            "HeakthcareThree": "Memeriksa Status",
+            "Logistics": "Logistik",
+            "LogisticsOne": "Informasi Pengiriman",
+            "LogisticsTwo": "Paket Pelacakan",
+            "Logistics Three": "Pelayanan Pelangganan",
+            "Hospitality": "Keramahtamahan",
+            "HospitalityOne": "Manajemen Reservasi",
+            "HospitalityTwo": "Komunikasi Tamu",
+            "HospitalityThree": "Permintaan Layanan"
+        }
+    },
+    "partner_page": {
+        "MCASH": {
+            "Title": "Tentang Perusahaan Kami",
+            "ParagraphOne": "Wabiz adalah sebuah perusahaan yang merupakan produk dari Damcorp dan anak perusahaan dari Mcash. Kami beroperasi di sektor API WhatsApp, bersamaan dengan perusahaan induk kami. Berbeda dengan Damcorp yang menawarkan layanan yang disesuaikan secara khusus, Wabiz menyediakan model self-service berbasis langganan dengan struktur bayar sesuai penggunaan. Model ini memungkinkan pengguna untuk mengelola kebutuhan API WhatsApp mereka dengan fleksibilitas dan otonomi penuh.",
+            "ParagraphTwo": "Memanfaatkan keahlian teknologi Damcorp dan Mcash, Wabiz memberikan solusi komunikasi berkualitas tinggi dan terukur. Pendekatan layanan mandiri menawarkan alternatif yang lebih mudah beradaptasi terhadap model layanan tradisional, yang mampu memenuhi beragam kebutuhan penggunanya."
+        },
+        "World": {
+            "Join": "Bergabunglah dengan Kami",
+            "Paragraph": "Bergabunglah dengan jaringan mitra multinasional yang terus berkembang dan mempercayai Wabiz untuk kebutuhan WhatsApp API mereka. Platform kami dirancang untuk memenuhi beragam kebutuhan bisnis global, memastikan integrasi yang lancar dan kinerja yang unggul. Dengan bermitra bersama kami, Anda akan berada di perusahaan yang baik, mendapatkan manfaat dari layanan dan dukungan berkualitas tinggi yang sama yang diandalkan oleh perusahaan-perusahaan terkemuka di seluruh dunia.",
+            "Register": "Registrasi",
+            "Talk": "Bicara dengan Ahli",
+            "Partner": "Mitra Kami"
+        },
+        "Success": {
+            "SuccessStory": "Kisah Sukses",
+            "Mandiri": "Bank Mandiri telah meningkatkan keterlibatan nasabah dan pertumbuhan bisnis secara signifikan melalui WhatsApp Business Platform. Dengan memanfaatkan alat komunikasi yang canggih ini, Mandiri telah melihat peningkatan yang luar biasa dalam berbagai metrik utama. Misalnya, 37% dari semua konversi sekarang terjadi melalui WhatsApp, yang menyoroti efektivitas platform dalam mendorong tindakan nasabah. Lebih jauh lagi, penggunaan WhatsApp telah berkontribusi pada peningkatan substansial sebesar 42% dalam pendapatan bunga margin bersih, yang menunjukkan dampak positifnya pada kinerja keuangan bank. Selain itu, notifikasi instan dan andal dari platform tersebut telah menghasilkan peningkatan 56% dalam pemohon kartu kredit yang menanggapi permintaan verifikasi, merampingkan proses aplikasi dan meningkatkan pengalaman nasabah. Dengan memanfaatkan WhatsApp Business Platform, Bank Mandiri telah menetapkan tolok ukur untuk transformasi digital dan layanan perbankan yang berpusat pada nasabah.",
+            "MandiriNumberOne": "37%",
+            "MandiriStatsOne": "dari semua konversi dilakukan melalui Whatsapp",
+            "MandiriNumberTwo": "42%",
+            "MandiriStatsTwo": "Peningkatan pendapatan bunga margin bersih melalui Whatsapp",
+            "MandiriNumberThree": "56%",
+            "MandiriStatsThree": "lebih banyak pemohon kartu kredit yang menanggapi pemberitahuan verifikasi",
+            "Kemenkes": "Kemenkes memanfaatkan WhatsApp untuk berkomunikasi dan menyebarluaskan informasi guna mendukung upaya vaksinasi selama pandemi COVID-19. Dengan menggunakan layanan WhatsApp Business API yang disediakan oleh Damcorp, Kemenkes mampu mengelola lebih dari 500 ribu pesan dalam lima hari pertama sejak pandemi dimulai. Penggunaan chatbot yang terintegrasi dalam sistem ini memungkinkan penyampaian informasi mengenai jadwal vaksinasi dan sertifikat vaksin secara cepat dan efisien. Melalui WhatsApp, Kemenkes tidak hanya dapat mempercepat proses penyampaian informasi kepada masyarakat, tetapi juga meningkatkan partisipasi dalam program vaksinasi. Ini merupakan contoh sukses bagaimana teknologi dapat digunakan untuk mendukung kesehatan masyarakat dan mempercepat respon terhadap krisis kesehatan global.",
+            "KemenkesNumberOne": "70%",
+            "KemenkesStatsOne": "Pengurangan penerusan pesan",
+            "KemenkesNumberTwo": ">500 Ribu",
+            "KemenkesStatsTwo": "Tenaga medis menggunakan chatbot dalam 5 hari pertama Covid19 terjadi di Indonesia",
+            "BAF": "BAF menyediakan solusi pendanaan bagi individu dan komersial untuk automotif, peralatan beternak, kendaraan komersial, dan lainnya. Sebelumnya, info tagihan, tanda terima digital, pesan sambutan, dan pesan pelanggan berbatas waktu lainnya dikirim lewat SMS dan email. Mereka ingin memanfaatkan tingkat baca dan penayangan pesan utilitas WhatsApp yang tinggi dan menghubungi Damcorp untuk mengurus prosesnya. Setelah mengalihkan pesan-pesan utama ke platform pilihan pelanggan, tingkat baca dan konversi BAF naik tiga kali lipat. Damcorp membantu BAF menerapkan pesan utilitas di touchpoint utama pelanggan di seluruh perjalanan pendanaan, mengelola klaim lewat WhatsApp, mengajukan klaim baru, mengecek status, dan mengunggah dokumen dalam satu utas percakapan yang memanfaatkan segudang fitur interaktifnya untuk membuat pesan yang dapat ditindaklanjuti dan memberikan pengalaman yang nyaman serta berkesan. Pesan utilitas dapat membantu perusahaan jasa keuangan menekan tingkat lambat bayar dan mendongkrak pendapatan teratas dengan mendorong tingkat tanggapan. Strategi ini juga mampu meningkatkan kepuasan pelanggan dengan membuat pengalaman pembayaran jadi lebih praktis, menekan biaya sebab pertanyaan yang masuk lebih sedikit.",
+            "BAFNumberOne": "3X",
+            "BAFStatsOne": "Tingkat Baca Lebih Tinggi dibandingkan SMS dan Email",
+            "BAFNumberTwo": "300%",
+            "BAFStatsTwo": "Tingkat Konversi Lebih Tinggi dibandingkan SMS dan Email"
+        }
+    },
+    "form_page": {
+        "Title": "Bicara dengan Ahli",
+        "Heading": "Isi formulir di bawah ini dan salah satu pakar kami akan menghubungi Anda",
+        "HeadingOne": "Mencari jawaban?",
+        "BodyOne": "Kirimkan formulir di bawah ini, dan tim kami akan segera memberikan informasi yang Anda butuhkan. Kami berdedikasi untuk memberikan jawaban yang tepat untuk Anda.",
+        "HeadingTwo": "Butuh bantuan?",
+        "BodyTwo": "Tim kami siap membantu Anda. Lengkapi formulirnya, dan kami akan menghubungi Anda untuk memberikan dukungan yang Anda perlukan untuk pertanyaan atau masalah yang Anda hadapi.",
+        "HeadingThree": "Memiliki kekhawatiran?",
+        "BodyThree": "Kekhawatiran Anda penting bagi kami. Isi formulirnya, dan kami akan segera menanganinya untuk memastikan kepuasan Anda.",
+        "FirstName": "Nama Awal: ",
+        "LastName": "Nama Akhir: ",
+        "Email": "Email",
+        "Phone": "Telepon",
+        "Optional": "(Opsional)",
+        "Subject": "Subjek",
+        "Message": "Pesan",
+        "Submit": "Kirim",
+        "FillName": "Isi nama depan anda",
+        "FillLast": "Isi nama akhir anda",
+        "FillEmail": "Isi email anda",
+        "FillPhone": "Isi nomor telepon anda",
+        "FillSubject": "Isi judul pertanyaan anda",
+        "FillMessage": "Isi pesan yang ingin anda tanyakan"
+    }
+}
